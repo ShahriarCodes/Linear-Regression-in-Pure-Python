@@ -2,6 +2,6 @@
 
 ### Data:
 
-The data is collected from Machine Learning course on Coursera taught By Dr. Andrew Ng
+The data is collected from the Machine Learning course on Coursera taught by Dr. Andrew Ng
 
 
